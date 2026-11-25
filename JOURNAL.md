@@ -13,5 +13,5 @@ decided to go with a 1080p camera instead of the initial 4k to reduce weight inc
 **Time spent:** 1hours 26min
 
 exploring a custom pcb instead of stacks of motherboards to reduce complexity and make it light I'm still not sure if it will work yet and I'm still exploring options found out that I can use a costom pcb which will significantly cut the cost the design should look similar the the initial drone flight controller 
-## What the PCB should look like (AI)
-<img width="908" height="803" alt="image" src="https://github.com/user-attachments/assets/81751368-b60e-420d-9172-59788564aefc" />
+## What the PCB should look like (AI) <img width="908" height="803" alt="image" src="https://github.com/user-attachments/assets/e5e5ca58-aa70-44a4-993b-58f4412d46f1" />
+
